@@ -15,4 +15,4 @@ The lower section of the dashboard focuses on key analytical trends, including e
 
 Overall, this dashboard demonstrates the use of Tableau for interactive data exploration, combining geospatial visualization with temporal filtering to uncover meaningful patterns in earthquake data. It highlights the ability to design cohesive, user-driven dashboards that transform raw data into actionable insights.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/EarthquakeDashboard_17744802685780/EarthquakeTracker?:embed=yes&:display_count=yes&showVizHome=no" width = '1090' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/EarthquakeDashboard_17744802685780/EarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
